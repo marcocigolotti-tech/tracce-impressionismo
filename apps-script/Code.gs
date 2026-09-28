@@ -6,8 +6,12 @@ const HEADERS = ['ID invio','Data e ora','Gruppo','Autore','Opera','Data opera',
 const SPREADSHEET_ID = 'INCOLLA_QUI_ID_SPREADSHEET';
 
 const CASES = {
-  'Gruppo 1': { artist:'Claude Monet', artwork:'Campo di papaveri ad Argenteuil', year:'1873' }
-  // In seguito si aggiungeranno qui Gruppo 2...6 senza cambiare la logica.
+  'Gruppo 1': { artist:'Claude Monet', artwork:'Campo di papaveri ad Argenteuil', year:'1873' },
+  'Gruppo 2': { artist:'Pierre-Auguste Renoir', artwork:'Bal du moulin de la Galette', year:'1876' },
+  'Gruppo 3': { artist:'Edgar Degas', artwork:'La classe di danza', year:'1873–1876' },
+  'Gruppo 4': { artist:'Berthe Morisot', artwork:'La culla', year:'1872' },
+  'Gruppo 5': { artist:'Edgar Degas', artwork:'In un caffè (L’Assenzio)', year:'1875–1876' },
+  'Gruppo 6': { artist:'Édouard Manet', artwork:'Il bar delle Folies-Bergère', year:'1882' }
 };
 const ALLOWED_CLUES = ['MOMENTO','LUCE E COLORE','PENNELLATA','REALTÀ OSSERVATA'];
 
