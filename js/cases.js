@@ -52,7 +52,7 @@ window.TRACCE_CASES = {
   },
   degas5: {
     id:'degas5', group:'Gruppo 5', artist:'Edgar Degas', artwork:'In un caffè (L’Assenzio)', year:'1875–1876', museum:"Musée d'Orsay, Parigi",
-    image:'images/Edgar_Degas_-_In_a_Café_-_Google_Art_Project_2.jpg', imageAlt:'Edgar Degas, In un caffè (L’Assenzio), 1875–1876',
+    image:'images/degas-assenzio.jpg', imageAlt:'Edgar Degas, In un caffè (L’Assenzio), 1875–1876',
     commonsPage:'https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_In_a_Caf%C3%A9_-_Google_Art_Project_2.jpg', museumPage:'https://www.musee-orsay.fr/fr/oeuvres/dans-un-cafe-1147',
     lookHelp:'Osservate le due persone e lo spazio intorno a loro. Che cosa vi fa capire in quale tipo di luogo si trovano?',
     clues:{
@@ -64,7 +64,7 @@ window.TRACCE_CASES = {
   },
   manet6: {
     id:'manet6', group:'Gruppo 6', artist:'Édouard Manet', artwork:'Il bar delle Folies-Bergère', year:'1882', museum:'The Courtauld, Londra',
-    image:'images/Edouard_Manet,_A_Bar_at_the_Folies-Bergère.jpg', imageAlt:'Édouard Manet, Il bar delle Folies-Bergère, 1882',
+    image:'images/manet-folies-bergere.jpg', imageAlt:'Édouard Manet, Il bar delle Folies-Bergère, 1882',
     commonsPage:'https://commons.wikimedia.org/wiki/File:Edouard_Manet,_A_Bar_at_the_Folies-Berg%C3%A8re.jpg', museumPage:'https://courtauld.ac.uk/highlights/a-bar-at-the-folies-bergere/',
     clueIntro:'Quali elementi dell’opera possono essere messi in relazione con le ricerche dell’Impressionismo che abbiamo scoperto?',
     lookHelp:'Guardate la donna, gli oggetti sul bancone e ciò che appare dietro di lei. Che cosa sta succedendo nello spazio?',

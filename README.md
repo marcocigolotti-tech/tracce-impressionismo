@@ -143,5 +143,5 @@ I sei file nella cartella `images` sono usati localmente e non dipendono da riso
 | 2 | `Ball_at_the_Moulin_de_la_Galette_Renoir_1876.jpg` | 1600 × 1066 | `bcc6fafb0e88cc9265195ac61ac40bcb07900036` |
 | 3 | `Edgar_Degas_-_The_Ballet_Class_-_Google_Art_Project.jpg` | 3950 × 4535 | `27b7fa0bee24d98a141e3fe0c66ecf69f9e6bc72` |
 | 4 | `Berthe_Morisot_-_The_Cradle_-_Google_Art_Project.jpg` | 4105 × 5001 | `1197c49b7535fec1b74db482874adc12fac4d636` |
-| 5 | `Edgar_Degas_-_In_a_Café_-_Google_Art_Project_2.jpg` | 3936 × 5400 | `1a6814c2cc6c9f860f101623b2388840d62faf9e` |
-| 6 | `Edouard_Manet,_A_Bar_at_the_Folies-Bergère.jpg` | 3419 × 2553 | `1d75d44ba99855fc5bd9f159e3afde5a1e3b2cb4` |
+| 5 | `degas-assenzio.jpg` | 3936 × 5400 | `1a6814c2cc6c9f860f101623b2388840d62faf9e` |
+| 6 | `manet-folies-bergere.jpg` | 3419 × 2553 | `1d75d44ba99855fc5bd9f159e3afde5a1e3b2cb4` |

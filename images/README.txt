@@ -31,14 +31,14 @@ Fonte: https://commons.wikimedia.org/wiki/File:Berthe_Morisot_-_The_Cradle_-_Goo
 Museo: https://www.musee-orsay.fr/fr/oeuvres/le-berceau-1132
 
 GRUPPO 5
-File: Edgar_Degas_-_In_a_Café_-_Google_Art_Project_2.jpg
+File: degas-assenzio.jpg
 Edgar Degas, In un caffè (L’Assenzio), 1875–1876 — Musée d’Orsay, Parigi
 3936 × 5400 px — SHA-1 1a6814c2cc6c9f860f101623b2388840d62faf9e
 Fonte: https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_In_a_Caf%C3%A9_-_Google_Art_Project_2.jpg
 Museo: https://www.musee-orsay.fr/fr/oeuvres/dans-un-cafe-1147
 
 GRUPPO 6
-File: Edouard_Manet,_A_Bar_at_the_Folies-Bergère.jpg
+File: manet-folies-bergere.jpg
 Édouard Manet, Il bar delle Folies-Bergère, 1882 — The Courtauld, Londra
 3419 × 2553 px — SHA-1 1d75d44ba99855fc5bd9f159e3afde5a1e3b2cb4
 Fonte: https://commons.wikimedia.org/wiki/File:Edouard_Manet,_A_Bar_at_the_Folies-Berg%C3%A8re.jpg
